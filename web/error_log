@@ -1,0 +1,7 @@
+[10-Dec-2019 11:45:31 UTC] WordPress database error Unknown column '' in 'field list' for query INSERT INTO `user` (``) VALUES ('') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/ntibn/registger.php')
+[10-Dec-2019 11:55:30 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/demoaspi/public_html/2020/ntibn-wp/web/wp-content/themes/ntibn/registger.php on line 182
+[10-Dec-2019 11:55:36 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/demoaspi/public_html/2020/ntibn-wp/web/wp-content/themes/ntibn/registger.php on line 182
+[10-Dec-2019 11:55:44 UTC] PHP Parse error:  syntax error, unexpected '<' in /home4/demoaspi/public_html/2020/ntibn-wp/web/wp-content/themes/ntibn/registger.php on line 182
+[25-Dec-2019 05:32:11 UTC] PHP Parse error:  syntax error, unexpected '270' (T_LNUMBER), expecting ')' in /home4/demoaspi/public_html/2020/ntibn-wp/web/wp-content/plugins/wp-event-manager/templates/content-single-event_listing.php on line 75
+[25-Dec-2019 05:33:37 UTC] PHP Parse error:  syntax error, unexpected '270' (T_LNUMBER), expecting ')' in /home4/demoaspi/public_html/2020/ntibn-wp/web/wp-content/plugins/wp-event-manager/templates/content-single-event_listing.php on line 75
+[25-Dec-2019 05:34:26 UTC] PHP Parse error:  syntax error, unexpected '270' (T_LNUMBER), expecting ')' in /home4/demoaspi/public_html/2020/ntibn-wp/web/wp-content/plugins/wp-event-manager/templates/content-single-event_listing.php on line 75

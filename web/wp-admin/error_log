@@ -1,0 +1,23 @@
+[24-Dec-2019 17:41:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/demoaspi/public_html/2020/ntibn-wp/web/wp-content/plugins/webcraftic-updates-manager/libs/factory/bootstrap/includes/functions.php:177) in /home4/demoaspi/public_html/2020/ntibn-wp/web/wp-admin/customize.php on line 126
+[25-Dec-2019 05:37:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/demoaspi/public_html/2020/ntibn-wp/web/wp-content/plugins/webcraftic-updates-manager/libs/factory/bootstrap/includes/functions.php:177) in /home4/demoaspi/public_html/2020/ntibn-wp/web/wp-admin/customize.php on line 126
+[25-Dec-2019 13:34:01 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ')' in /home4/demoaspi/public_html/2020/ntibn-wp/web/wp-content/themes/ntibn/functions.php on line 246
+[25-Dec-2019 13:34:02 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ')' in /home4/demoaspi/public_html/2020/ntibn-wp/web/wp-content/themes/ntibn/functions.php on line 246
+[25-Dec-2019 13:34:07 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ')' in /home4/demoaspi/public_html/2020/ntibn-wp/web/wp-content/themes/ntibn/functions.php on line 246
+[25-Dec-2019 13:35:29 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home4/demoaspi/public_html/2020/ntibn-wp/web/wp-content/themes/ntibn/functions.php on line 246
+[25-Dec-2019 13:35:32 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home4/demoaspi/public_html/2020/ntibn-wp/web/wp-content/themes/ntibn/functions.php on line 246
+[25-Dec-2019 13:36:09 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home4/demoaspi/public_html/2020/ntibn-wp/web/wp-content/themes/ntibn/functions.php on line 246
+[25-Dec-2019 13:36:40 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home4/demoaspi/public_html/2020/ntibn-wp/web/wp-content/themes/ntibn/functions.php on line 246
+[25-Dec-2019 13:37:03 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home4/demoaspi/public_html/2020/ntibn-wp/web/wp-content/themes/ntibn/functions.php on line 246
+[25-Dec-2019 13:37:38 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home4/demoaspi/public_html/2020/ntibn-wp/web/wp-content/themes/ntibn/functions.php on line 246
+[25-Dec-2019 13:38:16 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home4/demoaspi/public_html/2020/ntibn-wp/web/wp-content/themes/ntibn/functions.php on line 246
+[25-Dec-2019 13:38:18 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home4/demoaspi/public_html/2020/ntibn-wp/web/wp-content/themes/ntibn/functions.php on line 246
+[25-Dec-2019 13:38:37 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home4/demoaspi/public_html/2020/ntibn-wp/web/wp-content/themes/ntibn/functions.php on line 246
+[25-Dec-2019 13:39:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/demoaspi/public_html/2020/ntibn-wp/web/wp-content/themes/ntibn/functions.php on line 246
+[25-Dec-2019 15:17:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/demoaspi/public_html/2020/ntibn-wp/web/wp-content/themes/ntibn/functions.php on line 531
+[25-Dec-2019 15:21:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/demoaspi/public_html/2020/ntibn-wp/web/wp-content/themes/ntibn/functions.php on line 531
+[25-Dec-2019 15:26:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/demoaspi/public_html/2020/ntibn-wp/web/wp-content/themes/ntibn/functions.php on line 531
+[25-Dec-2019 15:26:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/demoaspi/public_html/2020/ntibn-wp/web/wp-content/themes/ntibn/functions.php on line 531
+[25-Dec-2019 15:30:52 UTC] PHP Parse error:  syntax error, unexpected '?' in /home4/demoaspi/public_html/2020/ntibn-wp/web/wp-content/themes/ntibn/functions.php on line 239
+[25-Dec-2019 15:32:47 UTC] PHP Parse error:  syntax error, unexpected '?' in /home4/demoaspi/public_html/2020/ntibn-wp/web/wp-content/themes/ntibn/functions.php on line 239
+[25-Dec-2019 15:33:16 UTC] PHP Parse error:  syntax error, unexpected '?' in /home4/demoaspi/public_html/2020/ntibn-wp/web/wp-content/themes/ntibn/functions.php on line 239
+[25-Dec-2019 16:14:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/demoaspi/public_html/2020/ntibn-wp/web/wp-content/themes/ntibn/functions.php on line 557
